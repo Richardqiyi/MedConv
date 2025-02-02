@@ -1,4 +1,4 @@
-# Medconv
+# MedConv
 This is the code repository for the paper:
 > MedConv: Convolutions Beat Transformers on Long-Tailed Bone Density Prediction
 > 
