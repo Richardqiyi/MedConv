@@ -1,5 +1,23 @@
 # Medconv
 This is the code repository for the paper:
+> MedConv: Convolutions Beat Transformers on Long-Tailed Bone Density Prediction
+> 
+> Xuyin Qi\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, Huazhan Zheng\*, Mingxi Chen, Numan Kutaiba, Ruth Lim, Cherie Chiang, Zi En Tham, Xuan Ren, Wenxin Zhang, Lei Zhang, Hao Zhang, Wenbing Lv, Guangzhen Yao, Renda Han, Kangsheng Wang, Mingyuan Li, Hongtao Mao, Yu Li, Zhibin Liao, Yang Zhao\**, Minh-Son To
+>
+> \*Equal contribution. \**Corresponding author. †Project lead.
+> 
+> [**[arXiv]**]() [**[Paper with Code]**]()
+
+## Citation
+
+```
+@article{qi2025projectedex,
+  title={ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer},
+  author={Qi, Xuyin and Zhang, Zeyu and Handoko, Aaron Berliano and Zheng, Huazhan and Chen, Mingxi and Huy, Ta Duc and Phan, Vu Minh Hieu and Zhang, Lei and Cheng, Linqi and Jiang, Shiyu and others},
+  journal={arXiv preprint arXiv:2501.01392},
+  year={2025}
+}
+```
 
 ## Introduction
 
