@@ -15,10 +15,10 @@ This is the code repository for the paper:
 ## Citation
 
 ```
-@article{qi2025projectedex,
-  title={ProjectedEx: Enhancing Generation in Explainable AI for Prostate Cancer},
-  author={Qi, Xuyin and Zhang, Zeyu and Handoko, Aaron Berliano and Zheng, Huazhan and Chen, Mingxi and Huy, Ta Duc and Phan, Vu Minh Hieu and Zhang, Lei and Cheng, Linqi and Jiang, Shiyu and others},
-  journal={arXiv preprint arXiv:2501.01392},
+@article{qi2025medconv,
+  title={MedConv: Convolutions Beat Transformers on Long-Tailed Bone Density Prediction},
+  author={Qi, Xuyin and Zhang, Zeyu and Zheng, Huazhan and Chen, Mingxi and Kutaiba, Numan and Lim, Ruth and Chiang, Cherie and Tham, Zi En and Ren, Xuan and Zhang, Wenxin and others},
+  journal={arXiv preprint arXiv:2502.00631},
   year={2025}
 }
 ```
