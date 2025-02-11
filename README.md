@@ -2,11 +2,11 @@
 This is the code repository for the paper:
 > **MedConv: Convolutions Beat Transformers on Long-Tailed Bone Density Prediction**
 > 
-> Xuyin Qi\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, Huazhan Zheng\*, Mingxi Chen, Numan Kutaiba, Ruth Lim, Cherie Chiang, Zi En Tham, Xuan Ren, Wenxin Zhang, Lei Zhang, Hao Zhang, Wenbing Lv, Guangzhen Yao, Renda Han, Kangsheng Wang, Mingyuan Li, Hongtao Mao, Yu Li, Zhibin Liao, Yang Zhao\**, Minh-Son To
+> [Xuyin Qi](https://au.linkedin.com/in/xuyin-q-29672524a)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, Huazhan Zheng\*, Mingxi Chen, Numan Kutaiba, Ruth Lim, Cherie Chiang, Zi En Tham, Xuan Ren, Wenxin Zhang, Lei Zhang, Hao Zhang, Wenbing Lv, Guangzhen Yao, Renda Han, Kangsheng Wang, Mingyuan Li, Hongtao Mao, Yu Li, [Zhibin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao), [Yang Zhao](https://yangyangkiki.github.io/)\**, [Minh-Son To](https://scholar.google.com.au/citations?user=NIc4qPsAAAAJ&hl=en)
 >
 > \*Equal contribution. \**Corresponding author. †Project lead.
 > 
-> [**[arXiv]**](https://arxiv.org/abs/2502.00631) [**[Paper with Code]**]()
+> [**[arXiv]**](https://arxiv.org/abs/2502.00631) [**[Paper with Code]**](https://paperswithcode.com/paper/medconv-convolutions-beat-transformers-on)
 
 ![framework.](https://github.com/Richardqiyi/MedConv/blob/main/main-graph.png)
 
