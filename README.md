@@ -10,8 +10,6 @@ This is the code repository for the paper:
 
 ![framework.](https://github.com/Richardqiyi/MedConv/blob/main/main-graph.png)
 
-*Overveiew of the framework.*
-
 ## Citation
 
 ```
