@@ -6,7 +6,7 @@ This is the code repository for the paper:
 >
 > \*Equal contribution. \**Corresponding author. †Project lead.
 > 
-> [**[arXiv]**](https://arxiv.org/abs/2502.00631) [**[Paper with Code]**](https://paperswithcode.com/paper/medconv-convolutions-beat-transformers-on)
+> [**[arXiv]**](https://arxiv.org/abs/2502.00631) [**[Paper with Code]**](https://paperswithcode.com/paper/medconv-convolutions-beat-transformers-on) **[[HF Paper]](https://huggingface.co/papers/2502.00631)**
 
 ![framework.](https://github.com/Richardqiyi/MedConv/blob/main/main-graph.png)
 
