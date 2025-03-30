@@ -27,7 +27,6 @@ Bone health, crucial for mobility, fracture prevention, and overall well-being, 
 
 ![pipeline.](https://github.com/Richardqiyi/MedConv/blob/main/Comparison_of_segmentators.png)
 
-*Overveiew of the pipiline.*
 
 ## Environment Setup
 ```
