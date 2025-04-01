@@ -31,14 +31,31 @@ Bone health, crucial for mobility, fracture prevention, and overall well-being, 
 
 
 ## Environment Setup
+Python = 3.7, Pytorch = 1.8.0, Torchvision = 1.9.0, CUDA = 11.1
+
+## GPU
+1 NVIDIA RTX A6000
+
+## Docker
 ```
-# create a clean conda environment from scratch
-conda create --name python=3.10
-conda activate MedConv
-# install pip
-conda install ipython
-conda install pip
-# install required packages
-pip install -r requirements.txt
+docker pull qiyi007/oct:1.0
 ```
+
+## Dataset
+```
+|---MedConv
+|---|---Data <NIFTI file>
+|-------|---...
+|---|---labels.xlsx
+```
+## Train
+```
+python train.py
+```
+
+
+
+
+
+
 
