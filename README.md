@@ -44,13 +44,17 @@ docker pull qiyi007/oct:1.0
 ## Dataset
 ```
 |---MedConv
-|---|---Data <NIFTI file>
+|---|---train_data <NIFTI file>
+|-------|---...
+|---|---val_data <NIFTI file>
+|-------|---...
+|---|---test_data <NIFTI file>
 |-------|---...
 |---|---labels.xlsx
 ```
 ## Train
 ```
-python train.py
+python train.py --save_dir <Directory to save model checkpoints> --logit_adj_post <adjust logits post hoc, default 1> --logit_adj_train <adjust logits in training, default 1>
 ```
 
 
