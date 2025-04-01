@@ -5,6 +5,8 @@ This is the code repository for the paper:
 > [Xuyin Qi](https://au.linkedin.com/in/xuyin-q-29672524a)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*†, Huazhan Zheng\*, Mingxi Chen, Numan Kutaiba, Ruth Lim, Cherie Chiang, Zi En Tham, Xuan Ren, Wenxin Zhang, Lei Zhang, Hao Zhang, Wenbing Lv, Guangzhen Yao, Renda Han, Kangsheng Wang, Mingyuan Li, Hongtao Mao, Yu Li, [Zhibin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao), [Yang Zhao](https://yangyangkiki.github.io/)\**, [Minh-Son To](https://scholar.google.com.au/citations?user=NIc4qPsAAAAJ&hl=en)
 >
 > \*Equal contribution. \**Corresponding author. †Project lead.
+>
+> <em><b>IJCNN 2025</b></em>
 > 
 > [**[arXiv]**](https://arxiv.org/abs/2502.00631) [**[Paper with Code]**](https://paperswithcode.com/paper/medconv-convolutions-beat-transformers-on) **[[HF Paper]](https://huggingface.co/papers/2502.00631)**
 
