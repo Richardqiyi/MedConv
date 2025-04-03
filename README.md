@@ -56,6 +56,11 @@ docker pull qiyi007/oct:1.0
 ```
 python train.py --save_dir <Directory to save model checkpoints> --logit_adj_post <adjust logits post hoc, default 1> --logit_adj_train <adjust logits in training, default 1>
 ```
+## Test
+```
+python test.py
+```
+It will test all choices of tro.
 
 
 
